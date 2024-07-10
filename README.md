@@ -1,4 +1,4 @@
-# Unibuddy Engineering Exercise
+# Completed Unibuddy Engineering Exercise
 
 This exercise is based on the deployed Unibuddy Chat service. The chat service is a core component in our product suite. 
 We've based our interview exercise on this code so you can get a feel of the code and products you'd been working on, and we can understand how you would adapt to working with our code base! 
